@@ -11,7 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.POI_design">
         <activity
-            android:name=".main.MainActivity"
+            android:name="com.vncmsk.puntosdeinteres.ui.main.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
